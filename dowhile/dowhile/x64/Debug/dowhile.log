@@ -1,0 +1,3 @@
+﻿  dowhile.cpp
+C:\Users\Admin\Desktop\programowanie\pierwszy\build\dowhile\dowhile\dowhile.cpp(8,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  dowhile.vcxproj -> C:\Users\Admin\Desktop\programowanie\pierwszy\build\dowhile\x64\Debug\dowhile.exe

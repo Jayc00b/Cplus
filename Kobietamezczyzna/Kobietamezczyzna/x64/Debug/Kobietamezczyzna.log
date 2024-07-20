@@ -1,0 +1,3 @@
+﻿  Kobietamezczyzna.cpp
+C:\Users\Admin\Desktop\programowanie\pierwszy\build\Kobietamezczyzna\Kobietamezczyzna\Kobietamezczyzna.cpp(10,17): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Kobietamezczyzna.vcxproj -> C:\Users\Admin\Desktop\programowanie\pierwszy\build\Kobietamezczyzna\x64\Debug\Kobietamezczyzna.exe

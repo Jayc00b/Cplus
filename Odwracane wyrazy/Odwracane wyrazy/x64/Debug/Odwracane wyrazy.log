@@ -1,0 +1,24 @@
+﻿  Odwracane wyrazy.cpp
+C:\Users\Admin\Desktop\programowanie\pierwszy\build\Odwracane wyrazy\Odwracane wyrazy\Odwracane wyrazy.cpp(9,17): error C2039: „napis”: nie jest składową elementu „std::basic_istream<char,std::char_traits<char>>”
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\istream(714,75):
+  zobacz deklarację „std::basic_istream<char,std::char_traits<char>>”
+  
+C:\Users\Admin\Desktop\programowanie\pierwszy\build\Odwracane wyrazy\Odwracane wyrazy\Odwracane wyrazy.cpp(9,5): error C2672: „std::getline”: nie znaleziono zgodnej przeciążonej funkcji
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\string(82,32):
+  może to być „std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)”
+  	C:\Users\Admin\Desktop\programowanie\pierwszy\build\Odwracane wyrazy\Odwracane wyrazy\Odwracane wyrazy.cpp(9,5):
+  	„std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)”: oczekuje 2 argumentów — podano 1
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\string(75,32):
+  lub       "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)"
+  	C:\Users\Admin\Desktop\programowanie\pierwszy\build\Odwracane wyrazy\Odwracane wyrazy\Odwracane wyrazy.cpp(9,5):
+  	„std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)”: oczekuje 3 argumentów — podano 1
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\string(68,32):
+  lub       "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)"
+  	C:\Users\Admin\Desktop\programowanie\pierwszy\build\Odwracane wyrazy\Odwracane wyrazy\Odwracane wyrazy.cpp(9,5):
+  	„std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)”: oczekuje 2 argumentów — podano 1
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\string(25,32):
+  lub       "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)"
+  	C:\Users\Admin\Desktop\programowanie\pierwszy\build\Odwracane wyrazy\Odwracane wyrazy\Odwracane wyrazy.cpp(9,5):
+  	„std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)”: oczekuje 3 argumentów — podano 1
+  
+C:\Users\Admin\Desktop\programowanie\pierwszy\build\Odwracane wyrazy\Odwracane wyrazy\Odwracane wyrazy.cpp(11,17): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\programowanie\\pierwszy\\build\\procedrualne 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86EA232C-06A9-483F-A69D-5746D97C8F71}|procedrualne 1\\procedrualne 1.vcxproj|C:\\Users\\Admin\\Desktop\\programowanie\\pierwszy\\build\\procedrualne 1\\procedrualne 1\\procedrualne 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86EA232C-06A9-483F-A69D-5746D97C8F71}|procedrualne 1\\procedrualne 1.vcxproj|solutionrelative:procedrualne 1\\procedrualne 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "procedrualne 1.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programowanie\\pierwszy\\build\\procedrualne 1\\procedrualne 1\\procedrualne 1.cpp",
+              "RelativeDocumentMoniker": "procedrualne 1\\procedrualne 1.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programowanie\\pierwszy\\build\\procedrualne 1\\procedrualne 1\\procedrualne 1.cpp",
+              "RelativeToolTip": "procedrualne 1\\procedrualne 1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T16:06:33.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

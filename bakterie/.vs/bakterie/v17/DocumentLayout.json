@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\programowanie\\pierwszy\\build\\bakterie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4DEB99-CD48-45F7-9C39-018A5CFD8FA9}|bakterie\\bakterie.vcxproj|C:\\Users\\Admin\\Desktop\\programowanie\\pierwszy\\build\\bakterie\\bakterie\\bakterie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E4DEB99-CD48-45F7-9C39-018A5CFD8FA9}|bakterie\\bakterie.vcxproj|solutionrelative:bakterie\\bakterie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bakterie.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programowanie\\pierwszy\\build\\bakterie\\bakterie\\bakterie.cpp",
+              "RelativeDocumentMoniker": "bakterie\\bakterie.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programowanie\\pierwszy\\build\\bakterie\\bakterie\\bakterie.cpp",
+              "RelativeToolTip": "bakterie\\bakterie.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T17:49:59.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
